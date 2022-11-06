@@ -19,7 +19,7 @@
               <div class="card card-primary">
                 <div class="card-header">
                         <h4>
-                           Form Add Data Student
+                           Table Detail User
                             <a href="{{ 'profile50' }}" class="btn btn-danger float-right">Back</a>
                         </h4>
                         @if ($message = Session::get('success'))
